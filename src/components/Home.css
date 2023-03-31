@@ -1,0 +1,468 @@
+.join{
+position: absolute;
+width: 91px;
+height: 12px;
+left: 1057px;
+top: 35px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 10.1053px;
+line-height: 12px;
+
+color: #636363;
+}
+.container {
+    position: absolute;
+    
+    left: 50%;
+    transform: translateX(-50%);
+    top: 500px;
+    
+  }
+  
+.rectangle20{
+position: absolute;
+width: 150.29px;
+height: 35.94px;
+left: 97.61px;
+top: 394.15px;
+
+background: #05B661;
+border-radius: 18.0904px;
+}
+.rectangle-19{
+position: absolute;
+width: 462px;
+height: 218.42px;
+left: 67px;
+top: 249px;
+
+background: rgba(2, 2, 2, 0.89);
+border-radius: 27.8313px;
+}
+.energy{
+position: absolute;
+width: 171.16px;
+height: 26.27px;
+left: 96.22px;
+top: 313.97px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22.2651px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.ongoing{
+position: absolute;
+width: 83.49px;
+height: 26.27px;
+left: 96.22px;
+top: 271.12px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 400;
+font-size: 22.2651px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.completed{
+position: absolute;
+width: 115.5px;
+height: 17.97px;
+left: 100.4px;
+top: 353.87px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 400;
+font-size: 15.4px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.continue{
+position: absolute;
+width: 73.75px;
+height: 20.74px;
+left: 126.84px;
+top: 399.68px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16.6988px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.rectangle21{
+position: absolute;
+width: 185.08px;
+height: 156.67px;
+left: 306.35px;
+top: 274.57px;
+
+background: #D9D9D9;
+border-radius: 29.2229px;
+}
+.sokoni{
+position: absolute;
+width: 120.23px;
+height: 121.87px;
+left: 737px;
+top: 266px;
+
+background: #F1BB52;
+border-radius: 23px;
+}
+.learning{
+    position: absolute;
+width: 96px;
+height: 29px;
+left: 753px;
+top: 340px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+.add4{
+    position: absolute;
+    left: 65.05%;
+    right: 33.67%;
+    top: 33.25%;
+    bottom: 64.78%;
+    color: white;
+    border-radius: 999%;
+    border-color: #FFFFFF;
+}
+.persona{
+position: absolute;
+width: 244.74px;
+height: 262px;
+left: 64px;
+top: 526px;
+
+background: linear-gradient(0.95deg, rgba(0, 0, 0, 0.32) 32.51%, rgba(5, 182, 97, 0.32) 90.88%), url("https://media.istockphoto.com/id/1348347815/photo/multiracial-young-woman-meditating-with-hands-in-prayer-at-home.jpg?b=1&s=170667a&w=0&k=20&c=5K1ly6haZR55FGHmq4xDx3qgfAQFoQA0AYlbt8Afrrg=");
+border-radius: 14.528px;
+}
+.personal-dev{
+    position: absolute;
+width: 119px;
+height: 36px;
+left: 21.23px;
+top: 526px;
+
+font-family: 'Finis Text Soft';
+font-style: normal;
+font-weight: 500;
+font-size: 20.1157px;
+line-height: 90.5%;
+/* or 18px */
+
+
+color: #FFFFFF;
+}
+.icon-sax{
+position: absolute;
+left: 79.92%;
+right: 7.58%;
+top: 62.04%;
+bottom: 12.96%;
+
+border: 1.67631px solid #FFFFFF;
+transform: rotate(39.43deg);
+border-radius: 999%;
+padding: 5px;
+border-color: white;
+}
+.frame1{
+    /* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px 407px 0px 0px;
+gap: 31.29px;
+
+position: absolute;
+width: 2032.42px;
+height: 262px;
+left: 64px;
+top: 526px;
+overflow-x: scroll;
+}
+.today{
+position: absolute;
+width: 73px;
+height: 15px;
+left: 95px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12.3077px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.talk{
+    position: absolute;
+width: 104.48px;
+height: 14.28px;
+left: 1036.02px;
+top: 342.99px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.tufahamu{
+position: absolute;
+width: 120.23px;
+height: 121.87px;
+left: 1020px;
+top: 266px;
+
+background: #05B661;
+border-radius: 23px;
+}
+.add2{
+    position: absolute;
+    left: 65.05%;
+    right: 33.67%;
+    top: 33.25%;
+    bottom: 64.78%;
+    
+    background: #FFFFFF;
+    
+}
+.tupe{
+position: absolute;
+width: 120.23px;
+height: 121.87px;
+left: 876.6px;
+top: 266px;
+
+background: #5275F1;
+border-radius: 23px;
+}
+.add3{
+position: absolute;
+left: 75.9%;
+right: 22.83%;
+top: 33.25%;
+bottom: 64.78%;
+
+background: #FFFFFF;
+}
+.custom{
+    position: absolute;
+width: 96px;
+height: 29px;
+left: 889px;
+top: 342px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+.add{
+position: absolute;
+width: 16.36px;
+height: 15.36px;
+left: 691.06px;
+top: 278.63px;
+color: white;
+border-radius: 999%;
+border-color: #FFFFFF;
+
+}
+
+.book{
+position: absolute;
+width: 63.6px;
+height: 29.2px;
+left: 612.57px;
+top: 340.06px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFFFFF;
+}
+.rect{
+position: absolute;
+width: 120.23px;
+height: 121.87px;
+left: 597px;
+top: 268px;
+
+background: #B60505;
+border-radius: 23px;
+}
+.menu{
+position: absolute;
+width: 31px;
+height: 31px;
+left: 1101px;
+top: 182px;
+}
+.rectangle19{
+position: absolute;
+width: 288px;
+height: 38px;
+left: 756px;
+top: 178px;
+
+background: #D9D9D9;
+border-radius: 10px;
+}
+.foto{
+box-sizing: border-box;
+
+position: absolute;
+width: 40.37px;
+height: 40.37px;
+left: 1422px;
+top: 83.43px;
+border-radius: 999%;
+}
+/* .elipse{
+position: absolute;
+width: 16.07px;
+height: 16.07px;
+left: 1452px;
+top: 103.43px;
+border-radius: 999%;
+
+background: #05B661;
+} */
+.profile{
+position: absolute;
+width: 56px;
+height: 55.63px;
+left: 1163px;
+top: 92px;
+}
+.img{
+    position: absolute;
+    width: 170.21px;
+    height: 140.65px;
+    left: 312.16px;
+    top: 281.27px;
+}
+.mask-group{
+position: absolute;
+width: 462px;
+height: 218.42px;
+left: 67px;
+top: 249px;
+
+filter: drop-shadow(0px 5.56627px 5.56627px rgba(0, 0, 0, 0.25));
+}
+.gm-dash{
+position: absolute;
+width: 462px;
+height: 218.42px;
+left: 67px;
+top: 249px;
+
+filter: drop-shadow(0px 5.56627px 5.56627px rgba(0, 0, 0, 0.25));
+}
+.home{
+    position: absolute;
+width: 35px;
+height: 12px;
+left: 967px;
+top: 35px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 700;
+font-size: 10.1053px;
+line-height: 12px;
+
+color: #636363;
+}
+.user-name{
+    position: absolute;
+width: 275px;
+height: 58px;
+left: 85px;
+top: 100px;
+
+font-family: 'Finis Text Soft';
+font-style: normal;
+font-weight: 500;
+font-size: 48.2445px;
+line-height: 58px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.how{
+    position: absolute;
+width: 201px;
+height: 27px;
+left: 84px;
+top: 148px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 400;
+font-size: 22.7368px;
+line-height: 27px;
+
+color: #636363;
+}
+.info{
+position: absolute;
+width: 445px;
+height: 44px;
+left: 84px;
+top: 194px;
+
+font-family: 'IBM Plex Sans Condensed';
+font-style: normal;
+font-weight: 400;
+font-size: 16.8927px;
+line-height: 22px;
+
+color: #1E1E1E;
+
+}

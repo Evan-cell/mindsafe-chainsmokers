@@ -1,0 +1,42 @@
+.icon {
+    position: absolute;
+    width: 63.33px;
+    height: 63.33px;
+    left: 1109.33px;
+    top: 571px;
+    color: white;
+  }
+  
+  .icon span {
+    left: 86.67%;
+    right: 8.39%;
+    top: 68.63%;
+    bottom: 23.76%;
+    
+    border: 1.5px solid #FFFFFF;
+    border-radius: 999px;
+    padding: 15px;
+  }
+  .better{
+position: absolute;
+width: 307.29px;
+height: 229.44px;
+left: 758px;
+top: 127px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 39.8994px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+.svg{
+    background: url(./2.svg);
+    position: absolute;
+    width: 145px;
+    height: 145.79px;
+    left: 567px;
+    top: 103px;
+    }
