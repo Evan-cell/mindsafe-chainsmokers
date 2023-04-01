@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- LOGO MAIN -->
+    <View
+        android:id="@+id/logo_main"
+        android:layout_width="99.74dp"
+        android:layout_height="100.28dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="139.26dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="87.36dp"
+        android:background="#C6B8B8"
+        />
+</selector>

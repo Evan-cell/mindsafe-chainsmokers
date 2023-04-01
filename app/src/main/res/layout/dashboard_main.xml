@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Ellipse 1 -->
+        <View
+            android:id="@+id/ellipse_1"
+            android:layout_width="191dp"
+            android:layout_height="189dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="89dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="19dp"
+            android:background="@drawable/drawable_ellipse" />
+
+
+        <!-- Rectangle 18 -->
+
+        <!-- Hello Monika -->
+        <View
+            android:id="@+id/rectangle10"
+            android:layout_width="288dp"
+            android:layout_height="38dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="21dp"
+            android:layout_marginTop="42dp"
+            android:background="@drawable/rectangle_11" />
+
+        <TextView
+            android:id="@id/hello_monik"
+            android:layout_width="140dp"
+            android:layout_height="29dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="28dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="55dp"
+            android:text="@string/hello_monik"
+            android:textAppearance="@style/hello_monik"
+            android:gravity="top" />
+
+
+
+        <!-- Search for tools -->
+        <TextView
+            android:id="@id/search_for_"
+            android:layout_width="110dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="79dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="136dp"
+            android:text="@string/search_for_"
+            android:textAppearance="@style/search_for_"
+            android:gravity="top" />
+
+
+        <!-- How are you today? -->
+        <TextView
+            android:id="@id/how_are_you"
+            android:layout_width="141dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="88dp"
+            android:text="@string/how_are_you"
+            android:textAppearance="@style/how_are_you"
+            android:gravity="top" />
+
+
+        <!-- This is your private area with all the tools you need to customized for you -->
+        <TextView
+            android:id="@id/this_is_you"
+            android:layout_width="183dp"
+            android:layout_height="22dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="42dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="197dp"
+            android:text="@string/this_is_you"
+            android:textAppearance="@style/this_is_you"
+            android:gravity="top" />
+
+        <!-- Todays Pick -->
+        <TextView
+            android:id="@+id/todays_pick"
+            android:layout_width="73dp"
+            android:layout_height="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="41dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="429dp"
+            android:text="@string/todays_pick"
+            android:textAppearance="@style/todays_pick"
+            android:gravity="top"/>
+
+
+        <!-- GM DASH BOARD -->
+
+        <!-- Status-Bar 1 -->
+
+        <View
+            android:id="@+id/gm_dash_boa"
+            android:layout_width="405dp"
+            android:layout_height="120dp"
+            android:layout_above="@+id/personal_de"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="94dp"
+            android:layout_marginBottom="48dp"
+            android:background="#1ADC5B"
+            android:elevation="4dp" />
+
+        <View
+            android:id="@+id/status_bar_"
+            android:layout_width="378dp"
+            android:layout_height="25dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="3dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="-9dp"
+            android:background="@drawable/drawable_statusbar7" />
+
+        <!-- Ellipse 4 -->
+
+
+        <!-- Rectangle 19 -->
+        <View
+            android:id="@+id/ellipse_4"
+            android:layout_width="191dp"
+            android:layout_height="189dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="296dp"
+            android:layout_marginTop="13dp"
+            android:background="@drawable/drawable_eclipse4" />
+
+        <View
+            android:id="@+id/rectangle_12"
+            android:layout_width="288dp"
+            android:layout_height="38dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="28dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="126dp"
+            android:background="@drawable/rectangle_12" />
+
+        <!-- Hello Monika -->
+        <TextView
+            android:id="@+id/hello_monik"
+            android:layout_width="140dp"
+            android:layout_height="29dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="28dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="55dp"
+            android:text="@string/hello_monik"
+            android:textAppearance="@style/hello_monik"
+            android:gravity="top" />
+
+
+        <!-- Search for tools -->
+        <TextView
+            android:id="@+id/search_for_"
+            android:layout_width="110dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="79dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="136dp"
+            android:text="@string/search_for_"
+            android:textAppearance="@style/search_for_"
+            android:gravity="top" />
+
+
+        <!-- How are you today? -->
+        <TextView
+            android:id="@+id/how_are_you"
+            android:layout_width="141dp"
+            android:layout_height="19dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="32dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="88dp"
+            android:text="@string/how_are_you"
+            android:textAppearance="@style/how_are_you"
+            android:gravity="top" />
+
+
+        <!-- This is your private area with all the tools you need to customized for you -->
+        <TextView
+            android:id="@+id/this_is_you"
+            android:layout_width="183dp"
+            android:layout_height="22dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="42dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="197dp"
+            android:text="@string/this_is_you"
+            android:textAppearance="@style/this_is_you"
+            android:gravity="top" />
+
+
+        <!-- unsplash:BFxnx0UHVGM -->
+
+
+        <!-- Rectangle 23 -->
+
+        <View
+            android:id="@+id/unsplash_bf"
+            android:layout_width="370dp"
+            android:layout_height="90dp"
+            android:layout_below="@+id/ellipse_1"
+            android:layout_alignEnd="@+id/gm_dash_boa"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="2dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="-149dp"
+            android:background="drawable_unsplash_bf" />
+
+        <View
+            android:id="@+id/rectangle_13"
+            android:layout_width="390dp"
+            android:layout_height="90.4dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="2dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="738.76dp"
+            android:background="@drawable/rectangle_12"
+            android:elevation="4dp" />
+
+
+        <!-- My sessions -->
+        <TextView
+            android:id="@+id/my_sessions"
+            android:layout_width="59dp"
+            android:layout_height="11.92dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="215dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="787.44dp"
+            android:text="@string/my_sessions"
+            android:textAppearance="@style/my_sessions"
+            android:gravity="top" />
+
+        <!-- explore -->
+        <TextView
+            android:id="@+id/explore"
+            android:layout_width="35dp"
+            android:layout_height="11.92dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="132dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="787.44dp"
+            android:text="@string/explore"
+            android:textAppearance="@style/explore"
+            android:gravity="top" />
+
+        <!-- Iconsax/Bulk/calendarremove -->
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/iconsax_cal"
+            android:layout_width="24dp"
+            android:layout_height="23.84dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="226dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="758.63dp"
+            android:clipToOutline="true"
+            android:background="@drawable/icon_sax_cal" />
+
+        <!-- Iconsax/Bulk/searchzoomin -->
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/icon_sax_search"
+            android:layout_width="22dp"
+            android:layout_height="21.86dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="135dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="760.62dp"
+            android:clipToOutline="true"
+            android:background="@drawable/icon_sax_search" />
+
+        <!-- PERSONAL DEVELOPMENT -->
+        <View
+            android:id="@+id/personal_de"
+            android:layout_width="499dp"
+            android:layout_height="151dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="22dp"
+            android:layout_marginBottom="52dp"
+            android:background="#31CCA0" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Mindsafe</string>
+    <string name="by_clicking"> By clicking here, I state that I have read and understood\nthe Terms and Conditions and Privacy Policy</string>
+    <string name="join_our_co">Join our community!</string>
+    <string name="would_you_l">Would you like\nto book a \nsession?</string>
+    <string name="this_is_you">This is your private area with all the tools\nyou need to customized for you</string>
+    <string name="mindsafe_de">Mindsafe details</string>
+    <string name="peter_njoro">Peter Njoroge</string>
+    <string name="years_of_ex">4 years of experience</string>
+    <string name="nairobi_ken">Nairobi Kenya</string>
+    <string name="reviews">5,000 Reviews</string>
+    <string name="some_id">4.8/5</string>
+    <string name="time">Time</string>
+    <string name="min">30min</string>
+    <string name="what_would_">What would you\nlike to discuss?</string>
+    <string name="get_started">Get started</string>
+    <string name="you">You</string>
+    <string name="march_24_20">March 24, 2023</string>
+    <string name="hello_monik">Hello Monika</string>
+    <string name="search_for_">Search for tools</string>
+    <string name="how_are_you">How are you today?</string>
+    <string name="todays_pick">Todays Pick</string>
+    <string name="my_sessions">My sessions</string>
+    <string name="explore">explore</string>
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

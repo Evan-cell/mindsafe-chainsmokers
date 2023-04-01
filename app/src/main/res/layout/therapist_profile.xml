@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <!-- This is your private area with all the tools you need customized for you -->
+        <TextView
+            android:id="@+id/this_is_you"
+            android:layout_width="274dp"
+            android:layout_height="32dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="43dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="160dp"
+            android:text="@string/this_is_you"
+            android:textAppearance="@style/this_is_you"
+            android:gravity="top" />
+
+
+        <!-- Peter Njoroge -->
+        <TextView
+            android:id="@+id/peter_njoro"
+            android:layout_width="111.58dp"
+            android:layout_height="23.91dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="120dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="63dp"
+            android:text="@string/peter_njoro"
+            android:textAppearance="@style/peter_njoro"
+            android:gravity="top" />
+
+
+        <!-- 4 years of experience -->
+        <TextView
+            android:id="@+id/years_of_ex"
+            android:layout_width="91dp"
+            android:layout_height="11dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="120dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="83dp"
+            android:text="@string/years_of_ex"
+            android:textAppearance="@style/years_of_ex"
+            android:gravity="top" />
+
+
+        <!-- Nairobi Kenya -->
+        <TextView
+            android:id="@+id/nairobi_ken"
+            android:layout_width="58dp"
+            android:layout_height="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="133.08dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="102.71dp"
+            android:text="@string/nairobi_ken"
+            android:textAppearance="@style/nairobi_ken"
+            android:gravity="top"
+            />
+
+        <!-- 5,000 Reviews -->
+        <TextView
+            android:id="@+id/reviews"
+            android:layout_width="59dp"
+            android:layout_height="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="173.78dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="128.39dp"
+            android:text="@string/reviews"
+            android:textAppearance="@style/reviews"
+            android:gravity="top"
+            />
+
+        <!-- 4.8/5 -->
+        <TextView
+            android:id="@+id/some_id2"
+            android:layout_width="22dp"
+            android:layout_height="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="140.55dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="128.39dp"
+            android:text="@string/some_id"
+            android:textAppearance="@style/some_id"
+            android:gravity="top"/>
+
+
+        <!-- Line 1 -->
+        <View
+            android:id="@+id/line_1"
+            android:layout_width="8.57dp"
+            android:layout_height="0dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="170.08dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="128.39dp"
+            android:background="@drawable/drawable_line1" />
+
+        <!-- Time -->
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="22dp"
+            android:layout_height="11dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="325dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="71dp"
+            android:text="@string/time"
+            android:textAppearance="@style/time"
+            android:gravity="top" />
+
+
+        <!-- 30min -->
+        <TextView
+            android:id="@+id/min"
+            android:layout_width="38dp"
+            android:layout_height="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="325dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="83dp"
+            android:text="@string/min"
+            android:textAppearance="@style/min"
+            android:gravity="top" />
+
+
+        <!-- Iconsax/Bulk/timerstart -->
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/iconsax_bul"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="278dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="66dp"
+            android:clipToOutline="true"
+            android:background="@drawable/drawable_iconsax" />
+
+        <!-- What would you like to discuss? -->
+        <TextView
+            android:id="@+id/what_would_"
+            android:layout_width="237dp"
+            android:layout_height="74dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="45dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="237dp"
+            android:text="@string/what_would_"
+            android:textAppearance="@style/what_would_"
+            android:gravity="top" />
+
+        <!-- 3/8 -->
+        <TextView
+            android:id="@+id/some_id"
+            android:layout_width="16dp"
+            android:layout_height="12dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="295dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="343dp"
+            android:text="@string/some_id"
+            android:textAppearance="@style/some_id"
+            android:gravity="top" />
+
+
+        <!-- Rectangle 27 -->
+        <View
+            android:id="@+id/rectangle_5"
+            android:layout_width="301dp"
+            android:layout_height="9dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="44dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="359dp"
+            android:background="@drawable/rectangle5"
+            />
+
+
+
+        <!-- Rectangle 28 -->
+        <View
+            android:id="@+id/rectangle_6"
+            android:layout_width="115dp"
+            android:layout_height="9dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="44dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="359dp"
+            android:background="@drawable/rectangle_6"
+            />
+
+
+
+        <!-- LOWER BAR & BG -->
+        <View
+            android:id="@+id/lower_bar_b"
+            android:layout_width="398dp"
+            android:layout_height="90.4dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="-3dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="732dp"
+            android:background="#000000"
+            />
+
+        <!-- Rectangle 25 -->
+        <View
+            android:id="@+id/rectangle_7"
+            android:layout_width="237dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="76dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="654dp"
+            android:background="@drawable/rectangle_7" />
+
+
+        <!-- Get started -->
+        <TextView
+            android:id="@+id/get_started"
+            android:layout_width="67dp"
+            android:layout_height="15dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="161dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="666dp"
+            android:text="@string/get_started"
+            android:textAppearance="@style/get_started"
+            android:gravity="top" />
+
+        <!-- Status-Bar 1 -->
+        <View
+            android:id="@+id/status_bar_"
+            android:layout_width="378dp"
+            android:layout_height="25dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="-9dp"
+            android:background="@drawable/status_bar5" />
+
+
+        <!-- MILESTONE STATE -->
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/milestone_s"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/drawable_milestone"
+            />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

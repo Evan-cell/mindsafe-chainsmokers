@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    Font family: Syne
+    Line height: 19sp
+    -->
+    <!-- styles.xml -->
+    <style name="have_an_acc">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#ED54BA</item>
+    </style>
+
+    <!-- strings.xml -->
+    <string name="have_an_acc">
+        Have an account? Log in
+    </string>
+    <!--
+   Font family: Syne
+   Line height: 16sp
+   -->
+
+    <!-- styles.xml -->
+    <style name="by_clicking">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">#DAC12A</item>
+    </style>
+    <!--
+   Font family: Syne
+   Line height: 24sp
+   (identical to box height)
+   -->
+
+    <!-- styles.xml -->
+    <style name="join_our_co">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#254EEA</item>
+    </style>
+
+    <!--
+  Font family: Finis Text Soft
+  Line height: 48sp
+  -->
+
+    <!-- styles.xml -->
+    <style name="would_you_l">
+        <item name="android:textSize">39.91sp</item>
+        <item name="android:textColor">#C558AC</item>
+    </style>
+
+    <!--
+  Font family: Inter
+  Line height: 16sp
+  -->
+
+    <!-- styles.xml -->
+    <style name="this_is_you">
+        <item name="android:textSize">13.59sp</item>
+        <item name="android:textColor">#C16161</item>
+    </style>
+
+    <!--
+ Font family: Syne
+ Line height: 34sp
+ -->
+
+    <!-- styles.xml -->
+    <style name="mindsafe_de">
+        <item name="android:textSize">28.63sp</item>
+        <item name="android:textColor">#62CDD1</item>
+    </style>
+    <!--
+         Font family: Inter
+         Line height: 16sp
+         -->
+    <!--
+          Font family: Inter
+          Line height: 20sp
+          -->
+
+    <!-- styles.xml -->
+    <style name="peter_njoro">
+        <item name="android:textSize">16.35sp</item>
+        <item name="android:textColor">#F57C00</item>
+    </style>
+
+    <!--
+    Font family: Inter
+    Line height: 11sp
+    (identical to box height)
+    -->
+
+    <!-- styles.xml -->
+    <style name="years_of_ex">
+        <item name="android:textSize">8.99sp</item>
+        <item name="android:textColor">#97F826</item>
+    </style>
+
+    <style name="nairobi_ken">
+        <item name="android:textSize">8.59sp</item>
+        <item name="android:textColor">#AFB51C</item>
+    </style>
+
+    <style name="reviews">
+        <item name="android:textSize">8.1sp</item>
+        <item name="android:textColor">#DC5F38</item>
+    </style>
+
+    <style name="some_id">
+        <item name="android:textSize">8.1sp</item>
+        <item name="android:textColor">#32BF88</item>
+    </style>
+
+    <style name="time">
+        <item name="android:textSize">9.02sp</item>
+        <item name="android:textColor">#091B45</item>
+    </style>
+
+    <style name="min">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#491A67</item>
+    </style>
+    <style name="what_would_">
+        <item name="android:textSize">30.91sp</item>
+        <item name="android:textColor">#9E3737</item>
+    </style>
+
+    <style name="get_started">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="you">
+        <item name="android:textSize">30.77sp</item>
+        <item name="android:textColor">#999999</item>
+    </style>
+
+    <style name="march_24_20">
+        <item name="android:textSize">18.3sp</item>
+        <item name="android:textColor">#6AD185</item>
+    </style>
+    <style name="hello_monik">
+        <item name="android:textSize">24.55sp</item>
+        <item name="android:textColor">#CA7E7E</item>
+    </style>
+
+    <style name="search_for_">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#8E2A2A</item>
+    </style>
+
+    <style name="how_are_you">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#CF7615</item>
+    </style>
+
+    <style name="todays_pick">
+        <item name="android:textSize">12.31sp</item>
+        <item name="android:textColor">#2E57EC</item>
+    </style>
+
+    <style name="my_sessions">
+        <item name="android:textSize">9.98sp</item>
+        <item name="android:textColor">#21D6A3</item>
+    </style>
+
+    <style name="explore">
+        <item name="android:textSize">9.98sp</item>
+        <item name="android:textColor">#EF4410</item>
+    </style>
+
+
+
+
+</resources>
